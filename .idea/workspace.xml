@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e47153f2-7dde-429b-ab66-e3e149652ca9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/Checkbox.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/SelectDropDwn.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/OrangeHRMCSSXPATH.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/OrangeHRMCSSXPATH.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/OrangeHRMFilter.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/OrangeHRMFilter.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/OrangeHRMLocators.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/OrangeHRMLocators.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/OrangeHRM_URL.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/OrangeHRM_URL.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/RadioButton.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/RadioButton.spec.js" afterDir="false" />
-    </list>
+    <list default="true" id="e47153f2-7dde-429b-ab66-e3e149652ca9" name="Changes" comment="Playwright" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,18 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "EmreAnliacik"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EmreAnliacik&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/EmreAnliacik/playwright.git",
-    "accountId": "67e21252-de6f-45d8-b999-ad37047c219d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EmreAnliacik/playwright.git&quot;,
+    &quot;accountId&quot;: &quot;67e21252-de6f-45d8-b999-ad37047c219d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -44,27 +33,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.localhost:9323.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Playwright.RadioButton.spec.js.executor": "Run",
-    "Playwright.Validate OrangeHRM Website title (1).executor": "Run",
-    "Playwright.Validate OrangeHRM Website title.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.1.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.localhost:9323.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Playwright.RadioButton.spec.js.executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Validate OrangeHRM Website title (1).executor&quot;: &quot;Run&quot;,
+    &quot;Playwright.Validate OrangeHRM Website title.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2025.1.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\emrea\WebstormProjects\playwright\tests" />
@@ -134,11 +123,24 @@
       <workItem from="1754489893025" duration="6000" />
       <workItem from="1754910865646" duration="6913000" />
       <workItem from="1755000936770" duration="3133000" />
-      <workItem from="1755168944413" duration="4548000" />
+      <workItem from="1755168944413" duration="4584000" />
     </task>
+    <task id="LOCAL-00001" summary="Playwright">
+      <option name="closed" value="true" />
+      <created>1755175248951</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755175248951</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Playwright" />
+    <option name="LAST_COMMIT_MESSAGE" value="Playwright" />
   </component>
 </project>
