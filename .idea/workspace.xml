@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e47153f2-7dde-429b-ab66-e3e149652ca9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/OrangeHRMCSSXPATH.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/OrangeHRMFilter.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/OrangeHRMLocators.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/OrangeHRM_Title.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/OrangeHRM_URL.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/RadioButton.spec.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="30urIllJSLrDq6CiDdMmOpbtDJJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.localhost:9323.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Playwright.RadioButton.spec.js.executor": "Run",
+    "Playwright.Validate OrangeHRM Website title (1).executor": "Run",
+    "Playwright.Validate OrangeHRM Website title.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.1.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\emrea\WebstormProjects\playwright\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Playwright.RadioButton.spec.js">
+    <configuration name="RadioButton.spec.js" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/tests/RadioButton.spec.js" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Validate OrangeHRM Website title (1)" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/OrangeHRM_URL.spec.js" />
+      <test-names>
+        <test-name value="Validate OrangeHRM Website title" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Validate OrangeHRM Website title" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/OrangeHRM_Title.spec.js" />
+      <test-names>
+        <test-name value="Validate OrangeHRM Website title" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost:9323" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:9323">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Playwright.RadioButton.spec.js" />
+        <item itemvalue="Playwright.Validate OrangeHRM Website title (1)" />
+        <item itemvalue="Playwright.Validate OrangeHRM Website title" />
+        <item itemvalue="JavaScript Debug.localhost:9323" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e47153f2-7dde-429b-ab66-e3e149652ca9" name="Changes" comment="" />
+      <created>1754488221149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754488221149</updated>
+      <workItem from="1754488222362" duration="1588000" />
+      <workItem from="1754489893025" duration="6000" />
+      <workItem from="1754910865646" duration="6913000" />
+      <workItem from="1755000936770" duration="3133000" />
+      <workItem from="1755168944413" duration="655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
