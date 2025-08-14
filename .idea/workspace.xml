@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e47153f2-7dde-429b-ab66-e3e149652ca9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/OrangeHRMCSSXPATH.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/OrangeHRMFilter.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/OrangeHRMLocators.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/OrangeHRM_Title.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/OrangeHRM_URL.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/RadioButton.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Checkbox.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/SelectDropDwn.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/OrangeHRMCSSXPATH.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/OrangeHRMCSSXPATH.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/OrangeHRMFilter.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/OrangeHRMFilter.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/OrangeHRMLocators.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/OrangeHRMLocators.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/OrangeHRM_URL.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/OrangeHRM_URL.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/RadioButton.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/RadioButton.spec.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "EmreAnliacik"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/EmreAnliacik/playwright.git",
+    "accountId": "67e21252-de6f-45d8-b999-ad37047c219d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -120,7 +134,7 @@
       <workItem from="1754489893025" duration="6000" />
       <workItem from="1754910865646" duration="6913000" />
       <workItem from="1755000936770" duration="3133000" />
-      <workItem from="1755168944413" duration="655000" />
+      <workItem from="1755168944413" duration="4548000" />
     </task>
     <servers />
   </component>
